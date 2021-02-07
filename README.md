@@ -7,6 +7,9 @@ This project was completed as part of the Codecademy Skill Path 'Build Deep Lear
 
 The purpose of this model is to classify chest x-rarys into three categories: covid, normal, and viral pneumonia The purpose of project was to practice constructing CNNs (convolutional neural networks). The dataset is small, thereby limiting the accuracy of any deep learning model that can be applied - this is because deep learning models are for applications in which there are large datasets on which to train.
 
+## Final Model Architecture
+
+
 ## Results
 
 ### Classification Report 
