@@ -1,7 +1,5 @@
 # Covid-19 and Pneumonia Classificaiton with Deep Learning
 
-# Forest Cover Classification
-
 Dataset: https://www.kaggle.com/pranavraikokte/covid19-image-dataset
 
 ## About
